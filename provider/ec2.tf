@@ -13,7 +13,7 @@ resource "aws_instance" "this" {
   }
 
   tags = {
-    Name    = var.tags["Name"]
-    Purpose = var.tags["Purpose"]
+    Name    = var.tags["dipak"]
+    Purpose = var.tags["webserver"]
   }
 }
