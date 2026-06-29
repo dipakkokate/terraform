@@ -18,9 +18,9 @@ tags = {
 }
 
 # Replace these with your own values
-vpc_id = "vpc-xxxxxxxx"
+vpc_id = "vpc-0b2d60b5cd1c3c4e2"
 
 subnet_ids = [
-  "subnet-xxxxxxxx",
-  "subnet-yyyyyyyy"
+  "subnet-04d05dbc5249f3482",
+  "subnet-0806e6c011d6ef0d8"
 ]
